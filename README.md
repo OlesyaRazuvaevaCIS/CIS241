@@ -1,3 +1,2 @@
-# CIS 241
-My first GitHub web page
+Hello World
 Olesya Razuvaeva
